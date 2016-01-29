@@ -1,7 +1,7 @@
 name: playescape
 favicon: null
-layout_spectrum: 0.5291827144101262
-typography_spectrum: 0.8737621109467
+layout_spectrum: 0
+typography_spectrum: 0.09157
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.15898466063663363
+  brandStrength: 0.3125
   lightness: 0.30934651801362634
   saturation: 0.640300840139389
-  rhythmicContrast: 0.09275136259384453
+  rhythmicContrast: 0
 purpose: []
