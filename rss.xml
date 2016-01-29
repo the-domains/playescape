@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[playescape]]></title>
+        <description><![CDATA[playescape]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 12:32:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A mix of werewolf and escape game, which shall come as a surprise to who don't know what either of those are.]]></title>
+            <description><![CDATA[<article><h1>A mix of werewolf and escape game, which shall come as a surprise to who don't know what either of those are.</h1><p>Soon...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22b0b999a45636c93f1a75f1bb8678d24ba9dcc4.png"></article>]]></description>
+            <link>undefinedade0111e-f1e0-491b-9a60-f9b0ba272c1f/index.html</link>
+            <guid isPermaLink="false">ade0111e-f1e0-491b-9a60-f9b0ba272c1f</guid>
+            <pubDate>Fri, 29 Jan 2016 12:31:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
